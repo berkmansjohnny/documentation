@@ -1,7 +1,6 @@
-
 # Toolbox
 
-# Filters {#filters}
+# Filters
 
 Binnen de Toolbox zijn er twee filterlagen die je aan producten koppelt: **Categorieën** en **Types**. Ze hebben elk een andere functie.
 
@@ -10,7 +9,7 @@ Binnen de Toolbox zijn er twee filterlagen die je aan producten koppelt: **Categ
 | ![][image1]  | **Nieuw product lanceren** Product toevoegen Inhoud invullen Publiceren **Bestaand product aanpassen** Zoeken Bewerken Opslaan **Meerdere producten tegelijk beheren** Filteren Selecteren Bulkactie uitvoeren |
 | url: [https://npzispahan.be/admin/notification](https://npzispahan.be/admin/notification)  |  |
 
-## 1\. Categorieën {#1.-categorieën}
+## 1\. Categorieën
 
 Categorieën groeperen producten inhoudelijk.
 
@@ -31,7 +30,7 @@ Op de website zal dit meestal gebruikt worden als hoofdindeling of navigatiestru
 
 Categorieën zijn dus inhoudelijke clusters.
 
-## 2\. Types {#2.-types}
+## 2\. Types
 
 Types beschrijven de vorm of het format van het product.
 
@@ -51,7 +50,7 @@ Het onderscheidt bijvoorbeeld een brochure van een e-learning binnen dezelfde ca
 
 Types zijn dus format-gedreven classificaties.
 
-## Verschil in functie {#verschil-in-functie}
+## Verschil in functie
 
 Categorie \= inhoudelijk thema  
  Type \= productvorm of medium
@@ -66,7 +65,7 @@ Samen zorgen ze ervoor dat:
 
 # Producten
 
-## Productoverzicht {#productoverzicht}
+## Overzicht en workflows
 
 Dit is de centrale plek om producten te beheren binnen de Toolbox.  
 Hier maak je producten aan, pas je ze aan en bepaal je of ze zichtbaar zijn voor gebruikers.
@@ -76,17 +75,17 @@ Hier maak je producten aan, pas je ze aan en bepaal je of ze zichtbaar zijn voor
 | ![][image2]  | **Nieuw product lanceren** Product toevoegen Inhoud invullen Publiceren **Bestaand product aanpassen** Zoeken Bewerken Opslaan **Meerdere producten tegelijk beheren** Filteren Selecteren Bulkactie uitvoeren |
 | url: [https://staging.npzispahan.be/admin/product](https://staging.npzispahan.be/admin/product)  |  |
 
-## Belangrijkste features {#belangrijkste-features}
+## Belangrijkste features
 
-### 1\. Product toevoegen {#1.-product-toevoegen}
+### 1\. Product toevoegen
 
 Via de knop “Product toevoegen” maak je een nieuw product aan.
 
-### 2\. Product bewerken {#2.-product-bewerken}
+### 2\. Product bewerken
 
 Door op de titel van een product te klikken ga je naar de detailpagina waar je de inhoud kan aanpassen.
 
-### 3\. Publiceren of terug in draft zetten {#3.-publiceren-of-terug-in-draft-zetten}
+### 3\. Publiceren of terug in draft zetten
 
 Je kan:
 
@@ -96,7 +95,7 @@ Je kan:
 
 Dit bepaalt of een product zichtbaar is op de website.
 
-### 4\. Zoeken en filteren {#4.-zoeken-en-filteren}
+### 4\. Zoeken en filteren
 
 Producten kunnen:
 
@@ -107,7 +106,7 @@ Producten kunnen:
 
 Dit helpt om snel specifieke producten terug te vinden.
 
-### 5\. Bulkacties {#5.-bulkacties}
+### 5\. Bulkacties
 
 Meerdere producten kunnen tegelijk geselecteerd worden om:
 
@@ -118,29 +117,29 @@ Meerdere producten kunnen tegelijk geselecteerd worden om:
 
 Dit is vooral nuttig bij grotere aantallen producten.
 
-### 6\. Bestellingen bekijken {#6.-bestellingen-bekijken}
+### 6\. Bestellingen bekijken
 
 Per product wordt het aantal gekoppelde bestellingen getoond.  
  Via deze link kan je doorklikken naar de bijhorende orders.
 
-### 7\. Product kopiëren {#7.-product-kopiëren}
+### 7\. Product kopiëren
 
 Een product kan gedupliceerd worden zodat je snel een variant kan maken en aanpassen.
 
 ---
 
-# Product toevoegen {#product-toevoegen}
+# Product toevoegen
 
 Een nieuw product toevoegen aan de Toolbox zodat het nadien gepubliceerd en besteld kan worden.
 
-## **Stap 1: Starten** {#stap-1:-starten}
+## **Stap 1: Starten**
 
 1. Ga naar **Toolbox \> Producten**.  
 2. Klik op **Product toevoegen**.
 
 Het formulier “Nieuwe product aanmaken” wordt geopend.
 
-## **Stap 2: Basisgegevens invullen** {#stap-2:-basisgegevens-invullen}
+## **Stap 2: Basisgegevens invullen**
 
 Vul de verplichte en relevante velden in:
 
@@ -158,7 +157,7 @@ Vul de verplichte en relevante velden in:
    Selecteer het type, bijvoorbeeld brochure, boek, schema, wettelijke documenten of e-learning.  
    Dit helpt bij structurering en filtering.
 
-## **Stap 3: Opslaan** {#stap-3:-opslaan}
+## **Stap 3: Opslaan**
 
 Klik op **Bewaren**.
 
@@ -169,7 +168,7 @@ Belangrijk:
 * Het product is na aanmaken doorgaans nog niet gepubliceerd.  
 * Je kan het nadien verder aanvullen of aanpassen via de detailpagina.
 
-## **Stap 4: Verdere bewerking (optioneel)** {#stap-4:-verdere-bewerking-(optioneel)}
+## **Stap 4: Verdere bewerking (optioneel)**
 
 Na opslaan kan je:
 
@@ -179,18 +178,18 @@ Na opslaan kan je:
 
 ---
 
-# **Product bewerken** {#product-bewerken}
+# **Product bewerken**
 
 De productdetailpagina is het centrale controlepunt voor inhoud, structuur, bestelinstellingen en zichtbaarheid van één specifiek product. Hier kan je een bestaand product aanpassen, inhoudelijk of technisch, zonder het te verwijderen of opnieuw aan te maken.
 
-## **Stap 1: Product openen** {#stap-1:-product-openen}
+## **Stap 1: Product openen**
 
 1. Ga naar **Toolbox \> Producten**.  
 2. Klik op de titel van het product dat je wil aanpassen.
 
 Je komt op de detailpagina van het product.
 
-## **Stap 2: Hoofding aanpassen** {#stap-2:-hoofding-aanpassen}
+## **Stap 2: Hoofding aanpassen**
 
 Via **Hoofding** kan je:
 
@@ -201,7 +200,7 @@ Via **Hoofding** kan je:
 
 Klik op **Aanpassen**, voer de wijzigingen door en sla op.
 
-## **Stap 3: Fragmenten en galerij beheren** {#stap-3:-fragmenten-en-galerij-beheren}
+## **Stap 3: Fragmenten en galerij beheren**
 
 Je kan:
 
@@ -211,7 +210,7 @@ Je kan:
 
 Dit beïnvloedt hoe het product visueel of inhoudelijk wordt voorgesteld.
 
-## **Stap 4: Links en zichtbaarheid** {#stap-4:-links-en-zichtbaarheid}
+## **Stap 4: Links en zichtbaarheid**
 
 Onder **Links** zie je:
 
@@ -220,7 +219,7 @@ Onder **Links** zie je:
 
 Hier kan je de publicatiestatus aanpassen indien nodig.
 
-## **Stap 5: Bestelformulier beheren** {#stap-5:-bestelformulier-beheren}
+## **Stap 5: Bestelformulier beheren**
 
 Onder **Bestelling** kan je:
 
@@ -230,11 +229,11 @@ Onder **Bestelling** kan je:
 
 Dit bepaalt hoe gebruikers het product bestellen.
 
-## **Stap 6: Download beheren (indien van toepassing)** {#stap-6:-download-beheren-(indien-van-toepassing)}
+## **Stap 6: Download beheren (indien van toepassing)**
 
 Bij digitale producten kan je hier bestanden beheren die na bestelling beschikbaar worden.
 
-## **Stap 7: Structuur en classificatie** {#stap-7:-structuur-en-classificatie}
+## **Stap 7: Structuur en classificatie**
 
 Onder **Paginastructuur** kan je:
 
@@ -244,7 +243,7 @@ Onder **Paginastructuur** kan je:
 
 Dit beïnvloedt hoe het product gestructureerd en gefilterd wordt in de Toolbox.
 
-## **Stap 8: SEO-instellingen** {#stap-8:-seo-instellingen}
+## **Stap 8: SEO-instellingen**
 
 Onder **SEO** kan je:
 
@@ -254,7 +253,7 @@ Onder **SEO** kan je:
 
 Dit beïnvloedt de weergave in zoekmachines en bij delen.
 
-## **Stap 9: Weergave in overzichten** {#stap-9:-weergave-in-overzichten}
+## **Stap 9: Weergave in overzichten**
 
 Onder **In overzichten** bepaal je:
 
@@ -263,11 +262,11 @@ Onder **In overzichten** bepaal je:
 
 Dit is relevant voor productoverzichten.
 
-## **Stap 10: Tags beheren** {#stap-10:-tags-beheren}
+## **Stap 10: Tags beheren**
 
 Via **Tags** kan je het product extra labelen voor filtering.
 
-## **Publicatiestatus beheren** {#publicatiestatus-beheren}
+## **Publicatiestatus beheren**
 
 Bovenaan zie je of het product **Gepubliceerd** is.  
 Je kan het product:
@@ -279,7 +278,9 @@ Dit bepaalt of het zichtbaar is op de website.
 
 ---
 
-# Bestellingen – overzicht en workflow {#bestellingen-–-overzicht-en-workflow}
+# Bestellingen
+
+## Overzicht en workflow
 
 Dit is het operationele controlepunt voor alles wat besteld werd via de Toolbox.  
 Productbeheer gebeurt in de productmodule, maar opvolging van aanvragen en aankopen gebeurt hier.
@@ -292,22 +293,22 @@ Hier beheer en controleer je wie wat besteld heeft.
 | ![][image3]  | **Verkoop per product bekijken** Filter op een specifiek Toolbox-item Bekijk de resultaten Exporteer indien nodig **Bestelling van een specifieke persoon zoeken** Gebruik het zoekveld Open de juiste bestelling Controleer details **Rapportering maken** Selecteer relevante bestellingen Klik op Exporteer bestellingen Gebruik het bestand voor administratie of analyse |
 | url: [https://staging.npzispahan.be/admin/order](https://staging.npzispahan.be/admin/order)  |  |
 
-## Belangrijkste functies {#belangrijkste-functies}
+## Belangrijkste functies
 
-### 1\. Filteren op product {#1.-filteren-op-product}
+### 1\. Filteren op product
 
 Via de Toolbox-filter kan je bestellingen beperken tot één specifiek product.  
 Dit is handig als je de verkoop of aanvragen per item wil bekijken.
 
-### 2\. Zoeken {#2.-zoeken}
+### 2\. Zoeken
 
 Via het zoekveld kan je bestellingen terugvinden op basis van bijvoorbeeld naam of e-mailadres.
 
-### 3\. Meer filters {#3.-meer-filters}
+### 3\. Meer filters
 
 Extra filters laten toe om gerichter te zoeken binnen de bestellingen.
 
-### 4\. Kolommen instellen {#4.-kolommen-instellen}
+### 4\. Kolommen instellen
 
 Je kan bepalen welke kolommen zichtbaar zijn, zoals:
 
@@ -318,21 +319,21 @@ Je kan bepalen welke kolommen zichtbaar zijn, zoals:
 
 Dit maakt de lijst overzichtelijker afhankelijk van je doel.
 
-### 5\. Detailpagina openen {#5.-detailpagina-openen}
+### 5\. Detailpagina openen
 
 Per bestelling kan je doorklikken naar de detailpagina om:
 
 * Volledige bestelgegevens te bekijken  
 * Eventuele bijkomende informatie te controleren
 
-### 6\. Bulkselectie {#6.-bulkselectie}
+### 6\. Bulkselectie
 
 Je kan meerdere bestellingen selecteren om:
 
 * Alle resultaten te selecteren  
 * Te exporteren
 
-### 7\. Exporteren {#7.-exporteren}
+### 7\. Exporteren
 
 Via **Exporteer bestellingen** kan je geselecteerde orders downloaden, bijvoorbeeld voor rapportage of verwerking.
 
@@ -342,7 +343,9 @@ Via **Exporteer bestellingen** kan je geselecteerde orders downloaden, bijvoorbe
 
 ---
 
-# Donaties {#donaties}
+# Donaties
+
+## Overzicht en workflow
 
 De pagina Donaties geeft een overzicht van alle ontvangen donaties via de website.  
 Hier volg je bedragen op, controleer je betaalstatussen en exporteer je gegevens voor administratie.
@@ -352,9 +355,9 @@ Hier volg je bedragen op, controleer je betaalstatussen en exporteer je gegevens
 | ![][image4]  | **Financiële opvolging** Sorteer op bedrag of datum Controleer de betaalstatus Exporteer indien nodig **Administratieve verwerking** Exporteer alle donaties Gebruik het bestand voor boekhouding of rapportering **Controle van betalingen** Filter of sorteer op recente donaties Controleer betaalstatus Voeg indien nodig een interne notitie toe  |
 | url: [https://npzispahan.be/admin/donation](https://npzispahan.be/admin/donation)  |  |
 
-## Belangrijkste functies {#belangrijkste-functies-1}
+## Belangrijkste functies
 
-### 1\. Overzicht van donaties {#1.-overzicht-van-donaties}
+### 1\. Overzicht van donaties
 
 Per donatie zie je:
 
@@ -367,12 +370,12 @@ Per donatie zie je:
 
 Dit geeft snel inzicht in wie heeft gedoneerd, wanneer en of de betaling voltooid is.
 
-### 2\. Filteren {#2.-filteren}
+### 2\. Filteren
 
 Via **Meer filters** kan je de lijst verfijnen.  
  Wanneer er geen resultaten zijn, kan je filters resetten.
 
-### 3\. Sorteren {#3.-sorteren}
+### 3\. Sorteren
 
 Je kan donaties sorteren op:
 
@@ -382,7 +385,7 @@ Je kan donaties sorteren op:
 
 Dit helpt bij financiële opvolging of chronologische controle.
 
-### 4\. Kolommen instellen {#4.-kolommen-instellen-1}
+### 4\. Kolommen instellen
 
 Je kan bepalen welke gegevens zichtbaar zijn in de tabel, bijvoorbeeld:
 
@@ -395,7 +398,7 @@ Je kan bepalen welke gegevens zichtbaar zijn in de tabel, bijvoorbeeld:
 
 Zo pas je het overzicht aan je doel aan.
 
-### 5\. Exporteren {#5.-exporteren}
+### 5\. Exporteren
 
 Via **Exporteer alle donaties** kan je een export maken van alle gegevens.  
  Dit is nuttig voor boekhouding, rapportering of verwerking in externe systemen.
